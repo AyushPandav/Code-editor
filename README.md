@@ -3,8 +3,8 @@
 The **Modern Code Editor** is a lightweight, responsive, and customizable editor designed for developers who love simplicity and performance. Built with **Vite**, **React**, and **Tauri**, it can run both as a **web app** and a **desktop application** — giving you the flexibility to code anywhere, seamlessly.
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/94/24/48/942448659533984170.jpg" alt="Code Editor UI 1" width="45%" style="border-radius:12px; margin-right:10px;">
-  <img src="https://i.pinimg.com/originals/94/24/48/942448659533984161.jpg" alt="Code Editor UI 2" width="45%" style="border-radius:12px;">
+  <img src="https://www.pinterest.com/pin/942448659533984161/" alt="Code Editor UI 1" width="45%" style="border-radius:12px; margin-right:10px;">
+  <img src="https://in.pinterest.com/pin/942448659533984170/" alt="Code Editor UI 2" width="45%" style="border-radius:12px;">
 </p>
 
 ---
